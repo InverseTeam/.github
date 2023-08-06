@@ -35,3 +35,20 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mack1ch&theme=solarized_dark)
+
+<h2 align="center">Артём Сокерин</h2>
+<h3 align="center">Mobile developer</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RambleTOT&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RambleTOT&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RambleTOT&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RambleTOT&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RambleTOT&theme=solarized_dark)
