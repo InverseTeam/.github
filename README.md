@@ -6,7 +6,6 @@
 
 <h2>Our Stats</h2>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InverseTeam&theme=vue-dark)](https://git.io/streak-stats)
-
 <h2 align="center">Дмитрий Степанов</h2>
 <h3 align="center">Frontend developer</h3>
 
