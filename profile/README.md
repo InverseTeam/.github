@@ -22,7 +22,6 @@
 <h2 align="center">Дмитрий Степанов</h2>
 <h3 align="center">Frontend developer</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mack1ch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mack1ch&theme=solarized_dark)
 
 
