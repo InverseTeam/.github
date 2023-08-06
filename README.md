@@ -3,4 +3,4 @@
 <h1 align="center">Приветствуем Вас в репозитории команды Inverse</h1>
 <h3 align="center">Мы молодая команда из Екатеринбурга, которая создает различные решения для бизнеса и образования</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InverseTeam&theme=vue-dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mack1ch&theme=vue-dark)](https://git.io/streak-stats)
