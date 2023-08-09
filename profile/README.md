@@ -53,6 +53,20 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RambleTOT&theme=solarized_dark)
 
+<h2 align="center">Иван Белогуров</h2>
+<h3 align="center">Backend & ML developer</h3>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hallteon&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hallteon&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hallteon&theme=solarized_dark)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hallteon&theme=solarized_dark)
+
 <h2 align="center">Сергей Сазонов</h2>
 <h3 align="center">Frontend developer</h3>
 
